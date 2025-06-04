@@ -1,0 +1,160 @@
+[
+  {
+    "id": 1,
+    "title": "Mouse Gamer",
+    "description": "Mouse óptico con luces RGB",
+    "code": "MG123",
+    "price": 50,
+    "status": true,
+    "stock": 20,
+    "category": "Periféricos",
+    "thumbnails": [
+      "mouse.jpg"
+    ]
+  },
+
+  {
+    "id": 2,
+    "title": "Monitor 144Hz Ultra HD",
+    "description": "Monitor Full HD de 24 pulgadas",
+    "code": "M144",
+    "price": 2000,
+    "status": true,
+    "stock": 15,
+    "category": "Pantallas",
+    "thumbnails": [
+      "monitor.jpg"
+    ]
+  },
+
+  {
+    "id": 3,
+    "title": "Teclado Mecánico RGB",
+    "description": "Teclado mecánico con iluminación RGB y switches Cherry MX",
+    "code": "KBM1",
+    "price": 150,
+    "status": true,
+    "stock": 20,
+    "category": "Periféricos",
+    "thumbnails": [
+      "teclado.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Monitor 144Hz Ultra HD",
+    "description": "Monitor Full HD de 24 pulgadas",
+    "code": "M144",
+    "price": 2000,
+    "status": true,
+    "stock": 15,
+    "category": "Pantallas",
+    "thumbnails": [
+      "monitor.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Mouse Gaming Inalámbrico",
+    "description": "Mouse gaming inalámbrico con sensor óptico y 6 botones programables",
+    "code": "MGI1",
+    "price": 80,
+    "status": true,
+    "stock": 30,
+    "category": "Periféricos",
+    "thumbnails": [
+      "mouse.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Auriculares Gaming",
+    "description": "Auriculares gaming con cancelación de ruido y micrófono retráctil",
+    "code": "AG1",
+    "price": 120,
+    "status": true,
+    "stock": 25,
+    "category": "Accesorios",
+    "thumbnails": [
+      "auriculares.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Tarjeta Gráfica RTX 3080",
+    "description": "Tarjeta gráfica NVIDIA GeForce RTX 3080 con 10GB GDDR6X",
+    "code": "TG1",
+    "price": 1500,
+    "status": true,
+    "stock": 10,
+    "category": "Componentes",
+    "thumbnails": [
+      "tarjeta-grafica.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Procesador Intel Core i9",
+    "description": "Procesador Intel Core i9 de 10ª generación con 10 núcleos y 20 hilos",
+    "code": "PI9",
+    "price": 800,
+    "status": true,
+    "stock": 8,
+    "category": "Componentes",
+    "thumbnails": [
+      "procesador.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Disco Duro SSD 1TB",
+    "description": "Disco duro SSD de 1TB con interfaz NVMe y velocidades de hasta 3500MB/s",
+    "code": "SSD1",
+    "price": 200,
+    "status": true,
+    "stock": 12,
+    "category": "Almacenamiento",
+    "thumbnails": [
+      "ssd.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Placa Base ATX",
+    "description": "Placa base ATX compatible con procesadores Intel y AMD, con soporte para DDR4",
+    "code": "PB1",
+    "price": 180,
+    "status": true,
+    "stock": 9,
+    "category": "Componentes",
+    "thumbnails": [
+      "placa-base.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Fuente de Poder 750W",
+    "description": "Fuente de poder de 750W con certificación 80 Plus Gold y modulable",
+    "code": "FP1",
+    "price": 130,
+    "status": true,
+    "stock": 14,
+    "category": "Componentes",
+    "thumbnails": [
+      "fuente-poder.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Caja de PC Gaming",
+    "description": "Caja de PC gaming con diseño en cristal templado y soporte para disipadores de gran tamaño",
+    "code": "CG1",
+    "price": 100,
+    "status": true,
+    "stock": 18,
+    "category": "Componentes",
+    "thumbnails": [
+      "caja-pc.jpg"
+    ]
+  }
+]
