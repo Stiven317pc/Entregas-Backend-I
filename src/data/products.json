@@ -12,7 +12,6 @@
       "mouse.jpg"
     ]
   },
-
   {
     "id": 2,
     "title": "Monitor 144Hz Ultra HD",
@@ -26,7 +25,6 @@
       "monitor.jpg"
     ]
   },
-
   {
     "id": 3,
     "title": "Teclado Mecánico RGB",
@@ -156,5 +154,10 @@
     "thumbnails": [
       "caja-pc.jpg"
     ]
+  },
+  {
+    "id": 13,
+    "title": "Portatil ASUS Vivobook 16",
+    "price": 4
   }
 ]
